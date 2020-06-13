@@ -1,0 +1,20 @@
+<template>
+    <router-view/>
+</template>
+
+
+
+
+<style>
+*{
+  font-size: 14px;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+</style>
